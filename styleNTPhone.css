@@ -1,0 +1,40 @@
+#logo{
+    font-size: 15vw;
+}
+#buttons{
+    margin: 10px;
+}
+.addcls{
+    font-size: 12px;
+}
+.heading-edit{
+   font-size: 20px;
+}
+.elem-text{
+    font-size: 10px;
+    
+}
+.elem1
+{
+    padding: 5px;
+    height: 15px;
+}
+.elem2{
+    padding: 10px;
+    height: 25px;
+}
+#heading h1{
+    font-size: 22px;
+}
+
+.heading-notes{
+    font-size: 12px;
+}
+.text-note
+{
+    font-size: 10px;
+}
+.delete
+{
+    font-size: 10px;
+}
